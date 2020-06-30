@@ -1,4 +1,4 @@
-# IEEE_reference_xls
+# IEEE_reference_xsl
 Hoja de estilos .xls para crear citas en formato IEEE en Office 2007 y 2010
 
 1. Descargar el archivo desde el siguiente enlace <https://github.com/alfonsomozkoh/IEEE_reference_xls>
